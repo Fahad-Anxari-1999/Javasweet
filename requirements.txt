@@ -1,0 +1,15 @@
+cv2
+numpy
+pandas
+supervision
+ultralytics
+huggingface_hub
+transformers
+PIL
+torch
+streamlit
+os
+tempfile
+csv
+time
+sys
